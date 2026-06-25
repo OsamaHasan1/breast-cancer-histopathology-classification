@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.venv/
+
+# Dataset files
+dataset/
+data/raw/
+BreaKHis_Total_dataset/
+*.zip
+*.rar
+*.7z
+
+# Image dataset
+*.jpg
+*.jpeg
+*.png
+
+# System files
+.DS_Store
+Thumbs.db
